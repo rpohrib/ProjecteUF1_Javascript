@@ -1,6 +1,6 @@
 <template>
     <footer>
-      <p>&copy; 2023 - Desenvolupat per Mr.Roberto</p>
+      <p>&copy; 2024 - Desenvolupat per Mr.Roberto</p>
     </footer>
   </template>
   
